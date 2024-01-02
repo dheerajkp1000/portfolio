@@ -1,0 +1,25 @@
+body{
+    background-color: whitesmoke; 
+}
+nav{   margin: auto;
+    width: 7%;
+    
+}
+
+h3{
+    font-size: 30px;
+    border-bottom: 2px solid red;
+    color: red;
+
+}
+img{
+    height: auto;
+    width: 300px;
+    transition: all;  
+}
+p{
+    position: absolute;
+    left:400px;
+    top: 200px;
+    font-size: 20px;  
+}

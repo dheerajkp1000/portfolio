@@ -1,0 +1,13 @@
+fieldset{
+    background-color: #d0bdf4;}
+    ;
+    text-transform: capitalize;
+    border: 2px solid red;
+}
+input{
+    border: 2px solid rgb(198, 32, 52);
+    /* cursor: pointer; */
+}
+button{
+    cursor: pointer;
+}

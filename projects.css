@@ -1,0 +1,75 @@
+body{
+    background-color: darkcyan;
+    margin: 0%;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(218, 11, 11, 0.564);
+    padding: 10px;
+    /* position: fixed; */
+}
+h3{
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    /* position: fixed; */
+
+}
+h1{
+    color: rgb(214, 16, 16);
+    display: flex;
+    justify-content: center;
+    text-transform: capitalize;
+    background-color: rgb(157, 103, 64);
+}
+img{ height: 200px;
+    width: 220px;
+    position: absolute;
+    top: 200px;
+    right:500px;
+    
+}
+div a{
+    /* display: block; */
+    text-decoration: none;
+    font-size: larger;
+    color: rgb(125, 30, 197);
+    border: 2px solid rgb(243, 49, 10);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;  
+}
+h2{text-transform: capitalize;
+
+justify-content: center;
+}
+.app2{
+    background-color: aqua;
+    display: flex;
+    align-items: center;
+    position: relative;
+    bottom: -200px;
+    justify-content: center;
+    height: 42px;
+}
+.counterapp{
+    position: absolute;
+    right: 930px;
+    top: 480px;
+    border: 2px solid red;
+    border-radius: 20px;
+    padding: 7px;
+    color: rebeccapurple;
+    font-size: 18px;
+    text-decoration: none;
+}
+.counter{ 
+    float: right;
+    /* display: flex; */
+    /* flex-direction: row; */
+    position: relative;
+    /* bottom: 200px; */
+    /* top: 100px; */
+}
